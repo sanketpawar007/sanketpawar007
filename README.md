@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SANKET PAWAR
-- 👀 I’m interested in Pyhon programing and data science
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in JavaScript 
+- 🌱 I’m currently learning Reat js
 - 💞️ I’m looking for a job
 - 📫 contact me snketpawar742000@gmail.com
 
