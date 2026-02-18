@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SANKET PAWAR
-- 👀 I’m interested in DevOps 
+- 👀 I’m interested in DevOps, AI
 - 💞️ I’m looking for a job
 - 📫 contact me snketpawar742000@gmail.com
 
